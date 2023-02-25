@@ -1,0 +1,2 @@
+fails:IO.copy_stream from an IO to an IO starts writing at the destination IO's current position
+fails:IO.copy_stream from a file name to an IO starts writing at the destination IO's current position
